@@ -189,6 +189,16 @@
             "description": "Customizable menu Image!: ඔබට කැමති අයුරින් මෙනුවක් සාදාගැනීමට එහි යෙදිය යුතු පින්තුරය",
             "required": false,
             "value": "https://telegra.ph/file/a143b34753c8434058e87.jpg"
+        },
+        "SONDOWNMSG": {
+            "description": "Song downloading message;",
+            "required": true,
+            "value": "******"
+        },
+        "SONGUPMSG": {
+            "description": "Song Uploading message;",
+            "required": true,
+            "value": "******"
         }
 
     },
