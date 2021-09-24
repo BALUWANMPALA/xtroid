@@ -193,12 +193,12 @@
         "SONDOWNMSG": {
             "description": "Song downloading message;",
             "required": true,
-            "value": "******"
+            "value": "╭┄┄┉♫♪♫┉┄┄╮\n*Searching song➧*\n╰┄┄┉♫♪♫┉┄┄╯"
         },
         "SONGUPMSG": {
             "description": "Song Uploading message;",
             "required": true,
-            "value": "******"
+            "value": ".ılı.—— uploading ——.ılı.\n   ⏫|◁      II         ▷|⏫"
         }
 
     },
